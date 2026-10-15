@@ -2,7 +2,7 @@
 
 Kho lưu trữ tổng hợp các bài thực hành Slots và Labs môn **PRM393**.
 
-## 📁 Danh sách bài tập & Cấu trúc thư mục
+##  Danh sách bài tập & Cấu trúc thư mục
 
 | Thư mục | Tên bài / Chủ đề | Mô tả chi tiết |
 |---|---|---|
@@ -14,7 +14,7 @@ Kho lưu trữ tổng hợp các bài thực hành Slots và Labs môn **PRM393*
 | [`slot7/`](./slot7) | **Slot 7 - Exercise 1** | *Simple Planner App* - User Interaction (Pickers Date/Time), Theming & Navigation 1.0 (Push/Pop) |
 | [`lab4/`](./lab4) | **Lab 4** | *Manage Recurring Bills App* - Quản lý hóa đơn định kỳ lưu trữ bằng SQLite (`sqflite`) |
 
-## 🚀 Hướng dẫn chạy từng bài
+## Hướng dẫn chạy từng bài
 
 Mỗi thư mục là một dự án Flutter hoàn chỉnh và độc lập. Để chạy bất kỳ bài nào:
 
