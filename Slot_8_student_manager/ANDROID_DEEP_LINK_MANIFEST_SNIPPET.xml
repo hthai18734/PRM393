@@ -1,0 +1,7 @@
+<!-- Chèn intent-filter vào <activity android:name=".MainActivity"> trong android/app/src/main/AndroidManifest.xml -->
+<intent-filter>
+  <action android:name="android.intent.action.VIEW" />
+  <category android:name="android.intent.category.DEFAULT" />
+  <category android:name="android.intent.category.BROWSABLE" />
+  <data android:scheme="studentmanager" android:host="students" />
+</intent-filter>
